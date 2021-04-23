@@ -1,10 +1,10 @@
 [
   {
-    "ID": 1,
+    "ID": 0,
     "team": "Sudbury Wolves",
-    "c1": 2,
-    "c2": 3,
-    "c3": 10,
+    "c1": 1,
+    "c2": 2,
+    "c3": 9,
     "story": "Welcome to the Sudbury Wolves,while you are here you can enjoy visting one of our many lakes, Science North or The Big Nickel",
     "lat": 46.4883518,
     "lon": -80.9947313,
@@ -17,11 +17,11 @@
     "ss": 3
   },
   {
-    "ID": 2,
+    "ID": 1,
     "team": "Owen Sound Attack",
-    "c1": 1,
-    "c2": 3,
-    "c3": 4,
+    "c1": 0,
+    "c2": 2,
+    "c3": 3,
     "story": "Welcome to the Owen Sound Attack, while you are here you can visit Harrison Park, the home of Billy Bishop or the Farmers Market",
     "lat": 44.5801133,
     "lon": -80.9370788,
@@ -34,11 +34,11 @@
     "ss": 5
   },
   {
-    "ID": 3,
+    "ID": 2,
     "team": "Kingston Frontenacs",
-    "c1": 2,
+    "c1": 1,
     "c2": 4,
-    "c3": 5,
+    "c3": 3,
     "story": "Welcome to Kingston, while you are here make sure to visit the Thousand Islands, Fort Henry or Dan Aykroyd's home",
     "lat": 44.2497393,
     "lon": -76.4903258,
@@ -51,11 +51,11 @@
     "ss": 3
   },
   {
-    "ID": 4,
+    "ID": 3,
     "team": "Sarnia Sting",
-    "c1": 3,
-    "c2": 5,
-    "c3": 6,
+    "c1": 2,
+    "c2": 4,
+    "c3": 5,
     "story": "Welcome to Sarina, while you are here make sure to check out Canatara Park, walk on the Howard Watson trail or check out the Stones N Bones museum",
     "lat": 42.9773679,
     "lon": -82.3499107,
@@ -68,11 +68,11 @@
     "ss": 4
   },
   {
-    "ID": 5,
+    "ID": 4,
     "team": "Flint Firebirds",
-    "c1": 4,
-    "c2": 3,
-    "c3": 19,
+    "c1": 3,
+    "c2": 1,
+    "c3": 18,
     "story": "Welcome to Flint, please be careful when you go outside, don't drink the water and make sure to eat a Coney Island hot dog!",
     "lat": 43.0111923,
     "lon": -83.6442218,
@@ -85,11 +85,11 @@
     "ss": 6
   },
   {
-    "ID": 6,
+    "ID": 5,
     "team": "Erie Otters",
-    "c1": 5,
+    "c1": 4,
     "c2": 7,
-    "c3": 8,
+    "c3": 6,
     "story": "Welcome to Erie, while you are here make sure to check out Mill Street Mall, the Seaway Trails or Art Museum",
     "lat": 42.1280051,
     "lon": -80.0830776,
@@ -102,11 +102,11 @@
     "ss": 2
   },
   {
-    "ID": 7,
+    "ID": 6,
     "team": "Peterborough Petes",
-    "c1": 6,
-    "c2": 8,
-    "c3": 9,
+    "c1": 5,
+    "c2": 7,
+    "c3": 8,
     "story": "Welcome to Peterborough, while you are here make sure to check out the Art Gallery of Peterborough, the Canadian Canoe Museum, or the Peterborough Lift Lock",
     "lat": 44.2890312,
     "lon": -78.31792,
@@ -119,11 +119,11 @@
     "ss": 2
   },
   {
-    "ID": 8,
+    "ID": 7,
     "team": "Barrie Colts",
-    "c1": 7,
+    "c1": 6,
     "c2": 9,
-    "c3": 10,
+    "c3": 8,
     "story": "Welcome to Barrie, while you are here make sure to check out the historic downtown waterfront, the Theatre by the Bay, or the MacLaren Art Centre",
     "lat": 44.3376346,
     "lon": -79.6804119,
@@ -136,11 +136,11 @@
     "ss": 2
   },
   {
-    "ID": 9,
+    "ID": 8,
     "team": "Mississauga Steelheads",
-    "c1": 8,
-    "c2": 5,
-    "c3": 19,
+    "c1": 7,
+    "c2": 4,
+    "c3": 18,
     "story": "Welcome to Mississauga, while you are here make sure to check out Celebration Square, the Square One Shopping Centre, or spend some time cycling on the extensive bike paths",
     "lat": 43.6323188,
     "lon": -79.6556447,
@@ -153,11 +153,11 @@
     "ss": 5
   },
   {
-    "ID": 10,
+    "ID": 9,
     "team": "Saginaw Spirit",
-    "c1": 9,
-    "c2": 11,
-    "c3": 12,
+    "c1": 8,
+    "c2": 10,
+    "c3": 11,
     "story": "Welcome to Saginaw, while you are here make sure to check out the Temple Theatre, the authentic Japanese Tea House, or the Andersen Enrichment Center and Rose Gardens.",
     "lat": 43.4354715,
     "lon": -83.9384178,
@@ -170,11 +170,11 @@
     "ss": 3
   },
   {
-    "ID": 11,
+    "ID": 10,
     "team": "Windsor Spitfires",
-    "c1": 10,
+    "c1": 9,
     "c2": 12,
-    "c3": 13,
+    "c3": 11,
     "story": "Welcome to Windsor, while you are here make sure to check out Caesars, the Windsor Sculpture Park, or Little Italy",
     "lat": 42.3192455,
     "lon": -82.9300349,
@@ -187,11 +187,11 @@
     "ss": 7
   },
   {
-    "ID": 12,
+    "ID": 11,
     "team": "Sault Ste. Marie Greyhounds",
-    "c1": 11,
-    "c2": 13,
-    "c3": 14,
+    "c1": 10,
+    "c2": 12,
+    "c3": 13,
     "story": "Welcome to Sault Ste. Marie, while you are here make sure to check out the Canadian Bushplane Heritage Centre, the Canal, or take a boat tour of the Sault locks",
     "lat": 46.5135037,
     "lon": -84.3392147,
@@ -204,11 +204,11 @@
     "ss": 2
   },
   {
-    "ID": 13,
+    "ID": 12,
     "team": "Hamilton Bulldogs",
-    "c1": 12,
-    "c2": 14,
-    "c3": 15,
+    "c1": 11,
+    "c2": 13,
+    "c3": 14,
     "story": "Welcome to Hamilton, while you are here make sure to check out Dundurn Castle, the Royal Botanical Gardens, or the African Lion Safari Park",
     "lat": 43.2590317,
     "lon": -79.874444,
@@ -221,11 +221,11 @@
     "ss": 3
   },
   {
-    "ID": 14,
+    "ID": 13,
     "team": "Guelph Storm",
-    "c1": 1,
-    "c2": 5,
-    "c3": 19,
+    "c1": 0,
+    "c2": 4,
+    "c3": 18,
     "story": "Welcome to Guelph, while you are here make sure to check out Old City Hall, McCrae House, or take in the trails at the University of Guelph Arboretum",
     "lat": 43.5469483,
     "lon": -80.2488554,
@@ -238,11 +238,11 @@
     "ss": 5
   },
   {
-    "ID": 15,
+    "ID": 14,
     "team": "Ottawa 67's",
-    "c1": 14,
+    "c1": 13,
     "c2": 16,
-    "c3": 17,
+    "c3": 15,
     "story": "Welcome to Ottawa, while you are here make sure to check out Parliament Hill, the ByWard Market, or stay at the Chateau Laurier",
     "lat": 45.3771233,
     "lon": -75.7054018,
@@ -255,11 +255,11 @@
     "ss": 4
   },
   {
-    "ID": 16,
+    "ID": 15,
     "team": "Niagara IceDogs",
-    "c1": 15,
+    "c1": 14,
     "c2": 17,
-    "c3": 18,
+    "c3": 16,
     "story": "Welcome to Niagara, while you are here make sure to check out Niagara Falls, Queen Victoria Park, or Marineland",
     "lat": 43.4068638,
     "lon": -79.7852971,
@@ -272,11 +272,11 @@
     "ss": 2
   },
   {
-    "ID": 17,
+    "ID": 16,
     "team": "Oshawa Generals",
-    "c1": 16,
-    "c2": 14,
-    "c3": 18,
+    "c1": 15,
+    "c2": 13,
+    "c3": 17,
     "story": "Welcome to Oshawa, while you are here make sure to check out the Canadian Automotive Museum, Lakeview Park, or the Robert McLaughlin Gallery",
     "lat": 43.8951269,
     "lon": -78.8670436,
@@ -289,11 +289,11 @@
     "ss": 2
   },
   {
-    "ID": 18,
+    "ID": 17,
     "team": "Kitchener Rangers",
-    "c1": 17,
+    "c1": 16,
     "c2": 19,
-    "c3": 20,
+    "c3": 18,
     "story": "Welcome to Kitchener, while you are here make sure to check out Victoria Park, Rockway Gardens, or take in Oktoberfest",
     "lat": 43.4472439,
     "lon": -80.4691196,
@@ -306,7 +306,7 @@
     "ss": 3
   },
   {
-    "ID": 19,
+    "ID": 18,
     "team": "North Bay Battalion",
     "c1": "",
     "c2": "",
@@ -323,7 +323,7 @@
     "ss": ""
   },
   {
-    "ID": 20,
+    "ID": 19,
     "team": "London Knights",
     "c1": "",
     "c2": "",
